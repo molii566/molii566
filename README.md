@@ -1,32 +1,83 @@
-# 👋 Hi, I’m Mo Lii @molii566
 
-Welcome to my GitHub profile! I’m a passionate and curious learner who loves exploring the world of programming and web security.
+---                                                  
+         ,----,        ,--,                          
+       .'   .`|      ,--.'|    ,---,.     ,----..    
+    .'   .'   ;   ,--,  | :  ,'  .'  \   /   /   \   
+  ,---, '    .',---.'|  : ',---.' .' |  /   .     :  
+  |   :     ./ ;   : |  | ;|   |  |: | .   /   ;.  \ 
+  ;   | .'  /  |   | : _' |:   :  :  /.   ;   /  ` ; 
+  `---' /  ;   :   : |.'  |:   |    ; ;   |  ; \ ; | 
+    /  ;  /    |   ' '  ; :|   :     \|   :  | ; | ' 
+   ;  /  /--,  \   \  .'. ||   |   . |.   |  ' ' ' : 
+  /  /  / .`|   `---`:  | ''   :  '; |'   ;  \; /  | 
+./__;       :        '  ; ||   |  | ;  \   \  ',  /  
+|   :     .'         |  : ;|   :   /    ;   :    /   
+;   |  .'            '  ,/ |   | ,'      \   \ .'    
+`---'                '--'  `----'         `---`      
+                                                     
 
-## 👀 About Me:
-- 🔐 **Penetration Testing Enthusiast** – I’m fascinated by the art of discovering vulnerabilities and making the web a safer place.
-- 💻 **Backend Web Development** – I enjoy building robust and scalable web applications using Node.js and other technologies.
-- 🕵️‍♂️ **Bug Bounty Hunter** – I’m actively involved in bug bounty programs, honing my skills to find and report security flaws.
-- 🎯 **Programming & Automation** – Continuously learning new languages and tools to optimize processes and solve problems.
+```
+          Z4B0
+```
 
-## 🌱 Currently Learning:
-- **Node.js** – Deepening my knowledge in backend development.
-- **Web Security & Pentesting Techniques** – Mastering advanced techniques to protect applications and networks.
-- **Advanced Algorithms** – Strengthening my problem-solving skills and coding efficiency.
+# 👋 Hi, I’m Z4B0 — @molii566
 
-## 💞️ Let’s Collaborate:
-- 💬 I’m always looking to work on open-source security projects and backend applications.
-- 🤝 If you’re working on a project or need help with penetration testing, feel free to reach out!
+Welcome to my GitHub space. I’m a backend developer, pentester, and CTF player always digging deeper into code and security.
 
-## 📫 How to Reach Me:
-- 🐦 Twitter: Mo__liiga
+---
 
-## 😄 Pronouns:
-- He/Him
+## 👨‍💻 About Me
 
-## ⚡ Fun Fact:
-- When I’m not coding or hunting bugs, you’ll probably find me playing around with new programming challenges or exploring the world of cybersecurity at odd hours.
+- 🛠️ **Backend Developer** — I build efficient, clean, and secure applications using **Node.js** and other web technologies.
+- 🕵️‍♂️ **Pentester / Web Security Explorer** — Always on the hunt for vulnerabilities through bug bounty programs and CTFs.
+- 📚 **Curious Learner** — Obsessed with mastering both development and offensive security.
+- 🧠 **Project-Minded** — You'll find backend repos, CTF writeups, automation scripts, and raw experiments in here.
 
-<!---
-molii566/molii566 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚧 What I’m Working On
+
+- **Backend Systems** — Auth, APIs, EJS, file handling, DBs.
+- **Web Security & Offensive Testing** — XSS, SSTI, IDOR, RCE, and more.
+- **CTF Writeups & Methodologies** — Personal notes and solved challenges.
+- **Automation Scripts** — Tools to speed up recon, enumeration, and testing.
+
+---
+
+## 📂 Featured Projects
+
+> Check my pinned repos for:
+- 🧩 **CTF Writeups**
+- 🔐 **Bug Bounty Tools**
+- ⚙️ **Full-Stack Backend Blog App**
+- 🛠️ **Security Scripts and Recon Tools**
+
+---
+
+## 🌱 Currently Diving Deeper Into
+
+- **Advanced Node.js & Express**
+- **Web Application Security**
+- **Better-SQLite3 & Auth Systems**
+- **OSCP Prep, Linux PrivEsc, Buffer Overflows**
+
+---
+
+## 📫 Reach Out
+
+- 🐦 Twitter: [Mo__liiga](https://twitter.com/Mo__liiga)
+- 🧠 LinkedIn: [Mahamud Abdirahman](https://www.linkedin.com/in/mahamud-abdirahman-151493375/)
+- 💻 GitHub: [@molii566](https://github.com/molii566)
+
+---
+
+## ⚡ Fun Facts
+
+- I reverse-engineer problems like puzzles.
+- I like my shells interactive, my payloads encoded, and my servers **properly rooted**.
+- I don’t sleep on bugs — I debug in my dreams.
+
+---
+
+**Let’s build. Let’s break. Let’s learn.**  
+— `Z4B0`
